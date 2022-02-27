@@ -13,21 +13,21 @@ import twelve from '../assets/svg/projects/twelve.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Clone of UpGrad ',
+        projectName: 'Clone of Bewakoof ',
         projectDesc: 'This project aims to  colnning the e-learning web site UpGrad which provides online courses',
         tags: ['HTML', 'Tailwind CSS', 'MongoDB','Epress'],
-        code: 'https://github.com/paragpatil187/upgrad',
-        demo: 'https://paragpatil187.github.io/upgrad/html/index.html',
+        code: 'https://github.com/thakurankit6767/Bewakoofclone.git',
+        demo: 'http://bewakoofclone.vercel.app/',
         image: twelve
 
     },
     {
         id: 2,
-        projectName: 'Clone of Fashionnova',
+        projectName: 'Clone of UBuy',
         projectDesc: 'This project is a railway tracking system that allows users to obtain relevant information about train timing.',
         tags: ['HTML', 'CSS','JavaScript'],
-        code: 'https://github.com/paragpatil187/projectfashionnova',
-        demo: 'https://paragpatil187.github.io/projectfashionnova/root/',
+        code: 'https://github.com/thakurankit6767/Ubuy-Clone-Project-Unit-2.git',
+        demo: 'http://ubuy-clone-project-unit-2.vercel.app/',
         image: four
 
     },

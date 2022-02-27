@@ -1,17 +1,17 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'T H wajekar Phunde',
+        institution: 'T H Wajekar Phunde',
         course: 'Higher Secondary Education',
-        startYear: '2012',
-        endYear: '2014'
+        startYear: '2011',
+        endYear: '2013'
     },
     {
         id: 2,
-        institution: 'G M Vedak Institute of technology ,Tala',
-        course: 'Bachelor of Engineering(Mechanical)',
-        startYear: '2014',
-        endYear: '2018'
+        institution: 'Veer Wajekar A.S.C.College Phunde',
+        course: 'Bachelor of Commerce',
+        // startYear: '2014',
+        // endYear: '2018'
     },
     {
         id: 3,

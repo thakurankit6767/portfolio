@@ -162,11 +162,11 @@ function Contacts() {
                         <form onSubmit={handleContactForm}>
                             <div className="input-container">
                                 <label htmlFor="Name"  className={classes.label}>Name</label>
-                                <input placeholder="John Doe" value={name} onChange={(e) => setName(e.target.value)} type="text" name="Name" className={`form-input ${classes.input}`}/>
+                                <input placeholder="Ankit Thakur" value={name} onChange={(e) => setName(e.target.value)} type="text" name="Name" className={`form-input ${classes.input}`}/>
                             </div>
                             <div className="input-container">
                                 <label htmlFor="Email"  className={classes.label}>Email</label>
-                                <input placeholder="John@doe.com" value={email} onChange={(e) => setEmail(e.target.value)} type="email" name="Email" className={`form-input ${classes.input}`}/>
+                                <input placeholder="thakurankt6767@gmail.com" value={email} onChange={(e) => setEmail(e.target.value)} type="email" name="Email" className={`form-input ${classes.input}`}/>
                             </div>
                             <div className="input-container">
                                 <label htmlFor="Message"  className={classes.label}>Message</label>
